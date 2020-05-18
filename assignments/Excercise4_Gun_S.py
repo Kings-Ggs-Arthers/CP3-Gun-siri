@@ -1,0 +1,10 @@
+print(" -- Your score -- ")
+
+FE  = ("Foundation English : 82.57")
+GB  = ("General Business : 75.26")
+ICS = ("Introduction to Computer Systems : 48.00")
+CP  = ("Computer Programming : 40.35")
+print(FE)
+print(GB)
+print(ICS)
+print(CP)
